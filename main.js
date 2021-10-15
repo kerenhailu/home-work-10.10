@@ -62,8 +62,8 @@
 //   }
 //   console.log(ArrayOneHundred);
 //   ArrayOneHundred.forEach((element) => {
-//     switch (num) {
-//       case element:
+//     switch (element) {
+//       case num:
 //         section.innerHTML = "Excellent you were right";
 //         // console.log(element);
 //         // console.log(num);
